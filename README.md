@@ -34,6 +34,10 @@ A simple web-based currency converter that allows users to convert amounts betwe
 2. Select the currency you want to convert from and to.
 3. Click the "Convert" button to see the converted amount.
 
+## Live Demo
+
+You can try the live demo of the currency converter [here](https://sharath4444.github.io/currency_converter/).
+
 ## API Integration
 
 The currency converter uses the [Currency API](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies) to fetch real-time exchange rates. 
